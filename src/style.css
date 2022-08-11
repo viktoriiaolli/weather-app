@@ -1,0 +1,166 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #2d2d2d;
+}
+
+h3 {
+  font-size: 22px;
+  margin: 14px 0;
+}
+
+.white-color {
+  color: #ffffff;
+}
+
+.logo {
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.margin-logo {
+  margin-top: 40px;
+}
+
+.section-1 {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  width: 658px;
+  height: 50px;
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-size: 18px;
+  border: 2px solid #1f2e54;
+}
+
+.style-icon {
+  padding-right: 6px;
+  width: 30px;
+  height: 30px;
+}
+
+.style-enter {
+  color: #656565;
+}
+
+.search-button {
+  background: #1f2e54;
+  border-style: none;
+  border-radius: 20px;
+  width: 168px;
+  height: 50px;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.button-location {
+  width: 70px;
+  height: 50px;
+  background: #ffffff;
+  border-radius: 20px;
+  border-style: none;
+  margin-left: 20px;
+}
+
+.location-icon {
+  color: #1f2e54;
+  font-size: 22px;
+}
+
+.list-cities {
+  position: relative;
+  bottom: -2px;
+  left: 152px;
+}
+
+.list-cities ul {
+  list-style: none;
+  display: flex;
+}
+
+.list-cities a {
+  margin-right: 20px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.section-2 {
+  display: flex;
+  justify-content: space-between;
+  max-width: 72%;
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 30px 50px;
+  background: #1f2e54;
+  box-shadow: 0px 34px 101px rgb(9 0 63 / 38%);
+  border-radius: 20px;
+}
+
+.title-subtitle {
+  display: flex;
+}
+
+.title-style {
+  margin-top: 10px;
+  font-size: 80px;
+}
+
+.units {
+  position: relative;
+  top: -45px;
+}
+
+.units a {
+  color: #ffffff;
+}
+
+.subtitle-style {
+  padding: 20px 30px;
+}
+
+.subtitle-style h2 {
+  font-size: 40px;
+}
+
+.description-weather {
+  display: flex;
+  padding-top: 20px;
+}
+
+.icon-size {
+  width: 100px;
+  height: 70px;
+  margin: 10px 20px 0 0;
+}
+
+.type-name {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.weather-character {
+  font-size: 12px;
+  margin: 4px;
+}
+
+.weather-character i {
+  margin-right: 6px;
+}
+
+.section-3 {
+  max-width: 74%;
+  margin: 0 auto;
+}
+
+.card-style {
+  text-align: center;
+  background: #1f2e54;
+  border-radius: 20px;
+  margin: 40px 10px 0;
+  padding: 30px 0 30px;
+}
