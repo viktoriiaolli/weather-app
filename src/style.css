@@ -164,3 +164,17 @@ h3 {
   margin: 40px 10px 0;
   padding: 30px 0 30px;
 }
+
+.coded-by {
+  display: block;
+  margin-top: 20px;
+  position: relative;
+  left: 182px;
+  font-size: 16px;
+}
+
+.coded-by a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #ffd900;
+}
