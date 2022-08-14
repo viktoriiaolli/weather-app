@@ -14,12 +14,10 @@ h3 {
 
 .logo {
   text-align: center;
-  font-weight: bold;
-  font-size: 24px;
 }
 
 .margin-logo {
-  margin-top: 40px;
+  margin: 50px 0;
 }
 
 .section-1 {
